@@ -81,12 +81,11 @@ This project focuses on analyzing **customer churn behavior** using **Power BI**
 
 ### 👤 Author
 
-**Vamsi Krishna Reddy**
+**Nagarjuna**
 
-📧 Email: mulintivamsireddy1@gmail.com
+📧 Email: nagarjuna3581@gmail.com
 
-🔗 GitHub: https://github.com/VamsiReddy36-k
+🔗 GitHub: https://github.com/nagarjunaCloud
 
-🔗 LinkedIn: www.linkedin.com/in/vamsi-krishna-reddy-mulinti
 
 
